@@ -1,0 +1,26 @@
+<style>
+    /* Custom styles for the form container */
+    .form-container {
+        background-color: #f7f7f7;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    /* Style the buttons */
+    .btn-primary {
+        background-color: #007bff;
+        color: #fff;
+        margin-right: 10px;
+    }
+
+    .btn-warning {
+        background-color: #ffc107;
+        color: #000;
+        margin-left: -80px;
+    }
+
+    /* Style the table */
+    .table {
+        margin-left: -106px;
+    }
+</style>
